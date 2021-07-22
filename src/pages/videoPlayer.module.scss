@@ -1,0 +1,146 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  animation: fullpage 1s forwards;
+  @keyframes fullpage {
+    0% {
+      opacity: 0;
+      transform: rotateY(90deg);
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+}
+.grid_left {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}
+.video {
+  width: 100%;
+  height: 200px;
+  background-color: black;
+}
+.details {
+  display: flex;
+  flex-direction: column;
+  width: 95%;
+  margin-top: 10px;
+}
+.title {
+  font-size: 19px;
+  font-weight: 500;
+}
+.stat_wraper {
+  display: flex;
+  flex-direction: row;
+  margin-top: 5px;
+  .text_sm {
+    font-size: 15px;
+    font-weight: 400;
+    color: #79606a;
+    margin-right: 5px;
+  }
+}
+.icons_section {
+  width: 80%;
+  display: flex;
+  flex-direction: row;
+  margin-top: 15px;
+  .icon_wraper {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+    margin-right: 30px;
+    .icon {
+      width: 34px;
+      height: 34px;
+    }
+    .txt {
+      font-size: 13px;
+      font-weight: 400;
+      margin-top: 6px;
+    }
+    .rotate {
+      transform: rotate(180deg);
+    }
+  }
+}
+.channel_info {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 15px;
+  width: 90%;
+  .profile_picture {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: black;
+  }
+  .channel_name {
+    margin-left: 5px;
+    font-size: 18px;
+    font-weight: 500;
+  }
+}
+.divider {
+  border-bottom: 1px solid #e5e5e5;
+  margin-bottom: 20px;
+}
+
+@media (min-width: 980px) {
+  .container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  .grid_left {
+    width: 60%;
+    margin-top: 30px;
+    .video {
+      height: 400px;
+    }
+  }
+  .details {
+    width: 100%;
+  }
+  .icons_section {
+    width: 100%;
+  }
+  .grid_right {
+    margin-top: 30px;
+    width: 30%;
+    margin-left: 20px;
+  }
+  .channel_info {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 15px;
+    width: 100%;
+    .profile_picture {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background-color: black;
+    }
+    .channel_name {
+      margin-left: 5px;
+      font-size: 22px;
+      font-weight: 500;
+    }
+  }
+  .divider {
+    display: none;
+  }
+}
