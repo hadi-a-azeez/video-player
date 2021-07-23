@@ -26,8 +26,8 @@ const VideoPlayer = (props) => {
       const videoDataResponse = getVidoeData(id);
       videoDataResponse.then((result) => {
         setVideoData(result);
-        setLikes(result.statistics.likeCount);
-        setDislikes(result.statistics.dislikeCount);
+        setLikes(parseInt(result.statistics.likeCount));
+        setDislikes(parseInt(result.statistics.dislikeCount));
         const cat_id = result.categoryId;
         const similarVideosResponse = getSimilarVideos(cat_id, id);
         similarVideosResponse.then((result) => setSimilarVideos(result));
