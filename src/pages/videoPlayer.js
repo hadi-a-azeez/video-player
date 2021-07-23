@@ -44,7 +44,7 @@ const VideoPlayer = (props) => {
   };
   const handleDislike = () => {
     setDisLiked(!disliked);
-    disliked ? setDislikes(dislikes + 1) : setDislikes(dislikes - 1);
+    disliked ? setDislikes(dislikes - 1) : setDislikes(dislikes + 1);
   };
 
   return (
