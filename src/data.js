@@ -6,7 +6,7 @@ export const data = {
       title: "Anish Giri shows the best ever Magic Trick",
       description: "",
       thumbnail:
-        "https://i.ytimg.com/an_webp/7VwOqVpZI48/mqdefault_6s.webp?du=3000&sqp=CKrk5YcG&rs=AOn4CLAiZ7U7YLOk_UeGKkAflUpLkXaexA",
+        "https://cdn.chess24.com/ScatJTw4TzSIVgDvDxEz8Q/original/anish-giri-lo.jpg",
       categoryId: "1",
       statistics: {
         viewCount: "2M",
@@ -36,7 +36,7 @@ export const data = {
       statistics: {
         viewCount: "30k",
         likeCount: "250",
-        dislikeCount: "0",
+        dislikeCount: "13",
         favoriteCount: "17",
         commentCount: "12",
         date: "1 hour ago",
@@ -45,7 +45,7 @@ export const data = {
         duration: "9:01",
       },
       channelInfo: {
-        name: "CarHouse",
+        name: "GmHikarku",
         profilePicture:
           "https://yt3.ggpht.com/ytc/AKedOLTjDRAcFsT-oBBccSMtGdd_ZvCByTl7u9p9e-Fl=s68-c-k-c0x00ffffff-no-rj",
       },
@@ -56,7 +56,7 @@ export const data = {
       title: "🦁 MEMPHIS DEPAY: HIS FIRST DAY AT BARÇA",
       description: "Chess video",
       thumbnail:
-        "https://i.ytimg.com/an_webp/67rKqT9GB04/mqdefault_6s.webp?du=3000&sqp=CKDo5IcG&rs=AOn4CLDnTN-lgx9bwJ3dyUg_iDoqaeKIzA",
+        "https://www.fcbarcelonanoticias.com/uploads/s1/12/65/22/3/depay-copy.jpeg",
       categoryId: "2",
       statistics: {
         viewCount: "90k",
@@ -81,7 +81,7 @@ export const data = {
       title: "That Time Hikaru Made an Illegal Move",
       description: "Chess video",
       thumbnail:
-        "https://i.ytimg.com/an_webp/Zo8EAtSFf38/mqdefault_6s.webp?du=3000&sqp=CILf5YcG&rs=AOn4CLDxNWm3KarCrfHVdfXYwGus5EsU3Q",
+        "https://images.chesscomfiles.com/uploads/v1/news/635618.55bc0875.5000x5000o.0a6880f8cc3f.png",
       categoryId: "1",
       statistics: {
         viewCount: "100k",
@@ -106,7 +106,7 @@ export const data = {
       title: "How To Win At Chess (Ep 4, 900-1800 ELO)",
       description: "Chess video",
       thumbnail:
-        "https://i.ytimg.com/an_webp/cY9zitJFglc/mqdefault_6s.webp?du=3000&sqp=CJLb5YcG&rs=AOn4CLD7uxy-cXQNzUiYkzdNE6km76CuhA",
+        "https://images.chesscomfiles.com/uploads/v1/article/25082.69a3ce2e.5000x5000o.0bd31a77f906.png",
       categoryId: "1",
       statistics: {
         viewCount: "190k",
@@ -130,8 +130,7 @@ export const data = {
       url: "https://www.youtube.com/watch?v=qh-yxk-qAOc",
       title: "Unforgettable Goals in Football #2",
       description: "football video",
-      thumbnail:
-        "https://i.ytimg.com/an_webp/qh-yxk-qAOc/mqdefault_6s.webp?du=3000&sqp=CMi65YcG&rs=AOn4CLBSQxOQeQvPaDvAPPQOalll1lyu-w",
+      thumbnail: "https://i.ytimg.com/vi/qh-yxk-qAOc/maxresdefault.jpg",
       categoryId: "2",
       statistics: {
         viewCount: "1M",
@@ -155,8 +154,7 @@ export const data = {
       url: "https://www.youtube.com/watch?v=xSsiS304iY8",
       title: "Football Matches That Shocked The World",
       description: "football video",
-      thumbnail:
-        "https://i.ytimg.com/an_webp/xSsiS304iY8/mqdefault_6s.webp?du=3000&sqp=CNft5YcG&rs=AOn4CLBJ4NVdknLCB1PybWH8I6EHYsphXQ",
+      thumbnail: "https://i.ytimg.com/vi/xSsiS304iY8/maxresdefault.jpg",
       categoryId: "2",
       statistics: {
         viewCount: "3M",
@@ -180,8 +178,7 @@ export const data = {
       url: "https://www.youtube.com/watch?v=G4wTERfoPfA",
       title: "Lionel Messi - The GOAT - Official Movie",
       description: "football video",
-      thumbnail:
-        "https://i.ytimg.com/an_webp/G4wTERfoPfA/mqdefault_6s.webp?du=3000&sqp=CIDp5YcG&rs=AOn4CLBtZK5o1r9YrPAiQ1hzUowbRxyJBA",
+      thumbnail: "https://i.ytimg.com/vi/G4wTERfoPfA/maxresdefault.jpg",
       categoryId: "2",
       statistics: {
         viewCount: "2M",
@@ -205,8 +202,7 @@ export const data = {
       url: "https://www.youtube.com/watch?v=ZvKJXDx4hdM",
       title: "Lionel Messi Against All Odds - Argentina",
       description: "football video",
-      thumbnail:
-        "https://i.ytimg.com/an_webp/ZvKJXDx4hdM/mqdefault_6s.webp?du=3000&sqp=CLq-5YcG&rs=AOn4CLDwg0wNxWt_5miEjh_VUBkPjO2ZcA",
+      thumbnail: "https://i.ytimg.com/vi/ZvKJXDx4hdM/maxresdefault.jpg",
       categoryId: "2",
       statistics: {
         viewCount: "9M",
@@ -230,8 +226,7 @@ export const data = {
       url: "https://www.youtube.com/watch?v=IGGuzpu87f4",
       title: "Funny Moments in Training",
       description: "football video",
-      thumbnail:
-        "https://i.ytimg.com/an_webp/IGGuzpu87f4/mqdefault_6s.webp?du=3000&sqp=CIrk5YcG&rs=AOn4CLCEtTOKeWphXaTR4G_3faTzsDs2ng",
+      thumbnail: "https://i.ytimg.com/vi/hyI_NREpRtk/maxresdefault.jpg",
       categoryId: "2",
       statistics: {
         viewCount: "1M",
@@ -255,8 +250,7 @@ export const data = {
       url: "https://www.youtube.com/watch?v=L9ZYdShgtPE",
       title: "Best Opening Races From Pixar's Cars! | Pixar Cars",
       description: "cars video",
-      thumbnail:
-        "https://i.ytimg.com/an_webp/L9ZYdShgtPE/mqdefault_6s.webp?du=3000&sqp=CPrK5YcG&rs=AOn4CLDybGJFyRND5clZMs_sAH3SyzfuOA",
+      thumbnail: "https://i.ytimg.com/vi/L9ZYdShgtPE/maxresdefault.jpg",
       categoryId: "3",
       statistics: {
         viewCount: "8M",
@@ -280,8 +274,7 @@ export const data = {
       url: "https://www.youtube.com/watch?v=NUzDLpSkQTg",
       title: "Why Rolls-Royce Cars Are So Expensive | So Expensive",
       description: "cars video",
-      thumbnail:
-        "https://i.ytimg.com/an_webp/NUzDLpSkQTg/mqdefault_6s.webp?du=3000&sqp=CPjw5YcG&rs=AOn4CLD3cD1cI82HOy_Q7Pb7OscfjhPtpg",
+      thumbnail: "https://i.ytimg.com/vi/NUzDLpSkQTg/maxresdefault.jpg",
       categoryId: "3",
       statistics: {
         viewCount: "8M",
@@ -305,8 +298,7 @@ export const data = {
       url: "https://www.youtube.com/watch?v=btB7JggCcEo",
       title: "Toy Car Play with Transportation Vehicle and Cars",
       description: "cars video",
-      thumbnail:
-        "https://i.ytimg.com/an_webp/btB7JggCcEo/mqdefault_6s.webp?du=3000&sqp=CLz35YcG&rs=AOn4CLC73FjnwZdtkv1xRUBJ5nIVaUTqOQ",
+      thumbnail: "https://i.ytimg.com/vi/btB7JggCcEo/maxresdefault.jpg",
       categoryId: "3",
       statistics: {
         viewCount: "33M",
@@ -328,10 +320,10 @@ export const data = {
     {
       id: "14",
       url: "https://www.youtube.com/watch?v=hcMbzXQrL3o",
-      title: "Toy Car Play with Transportation Vehicle and Cars",
+      title: "Car Play with Transportation Vehicle and Cars",
       description: "cars video",
       thumbnail:
-        "https://i.ytimg.com/an_webp/L6JL7Vd7CnU/mqdefault_6s.webp?du=3000&sqp=CJrJ5YcG&rs=AOn4CLBeIF2cPK27glkFvEi9c_8ym8t7PA",
+        "https://i.pinimg.com/originals/62/15/db/6215db07de7ad8dec770512ac53610d7.jpg",
       categoryId: "3",
       statistics: {
         viewCount: "33M",
@@ -355,8 +347,7 @@ export const data = {
       url: "https://www.youtube.com/watch?v=d27GO7tCU2U",
       title: "Destroyed MERCEDES Benz Amg GT - Incredible Restoration",
       description: "cars video",
-      thumbnail:
-        "https://i.ytimg.com/an_webp/d27GO7tCU2U/mqdefault_6s.webp?du=3000&sqp=CKjo5YcG&rs=AOn4CLA89_pSneh1-6BOqHRbD_X40CTg8w",
+      thumbnail: "https://i.ytimg.com/vi/d27GO7tCU2U/maxresdefault.jpg",
       categoryId: "3",
       statistics: {
         viewCount: "39M",
@@ -380,8 +371,7 @@ export const data = {
       url: "https://www.youtube.com/watch?v=syB1ezRvKpU",
       title: "I bought the SMALLEST Tech in the world.",
       description: "texh video",
-      thumbnail:
-        "https://i.ytimg.com/an_webp/syB1ezRvKpU/mqdefault_6s.webp?du=3000&sqp=COv-5YcG&rs=AOn4CLC2mEanAv1GyV1dw0uI2cLDZpLctQ",
+      thumbnail: "https://i.ytimg.com/vi/syB1ezRvKpU/maxresdefault.jpg",
       categoryId: "4",
       statistics: {
         viewCount: "2M",
@@ -405,8 +395,7 @@ export const data = {
       url: "https://www.youtube.com/watch?v=OHlZXyhG3eQ",
       title: "How THIS instagram story kills your phone.",
       description: "tech video",
-      thumbnail:
-        "https://i.ytimg.com/an_webp/OHlZXyhG3eQ/mqdefault_6s.webp?du=3000&sqp=COjN5YcG&rs=AOn4CLCBCX-hvLUBkTKYoE3S25tyvS5KwQ",
+      thumbnail: "https://i.ytimg.com/vi/OHlZXyhG3eQ/maxresdefault.jpg",
       categoryId: "4",
       statistics: {
         viewCount: "9M",
@@ -430,8 +419,7 @@ export const data = {
       url: "youtube.com/watch?v=n2RNcPRtAiY",
       title: "Talking Tech and AI with Google CEO Sundar Pichai!",
       description: "tech video",
-      thumbnail:
-        "https://i.ytimg.com/an_webp/n2RNcPRtAiY/mqdefault_6s.webp?du=3000&sqp=CPDu5YcG&rs=AOn4CLBO_lJCZIO2iYi4or2AoDQaEHrmKg",
+      thumbnail: "https://i.ytimg.com/vi/n2RNcPRtAiY/maxresdefault.jpg",
       categoryId: "4",
       statistics: {
         viewCount: "19M",
@@ -456,7 +444,7 @@ export const data = {
       title: "Steve Jobs introduces iPhone in 2007",
       description: "tech video",
       thumbnail:
-        "https://i.ytimg.com/an_webp/MnrJzXM7a6o/mqdefault_6s.webp?du=3000&sqp=CPrY5YcG&rs=AOn4CLD2i_dPMKAKHl9df2ir34AEoLQuZw",
+        "https://s.abcnews.com/images/Technology/170109_abc_archive_pulls_nightline_iphone_16x9_992.jpg",
       categoryId: "4",
       statistics: {
         viewCount: "39M",
@@ -480,8 +468,7 @@ export const data = {
       url: "https://www.youtube.com/watch?v=aHGd6LqAVzw",
       title: "When Elon Musk realised China's richest man is an idiot",
       description: "tech video",
-      thumbnail:
-        "https://i.ytimg.com/an_webp/zIwLWfaAg-8/mqdefault_6s.webp?du=3000&sqp=CJLs5YcG&rs=AOn4CLArlrjVSEIBfFm7N8e6i3htiblN8g",
+      thumbnail: "https://i.ytimg.com/vi/aHGd6LqAVzw/mqdefault.jpg",
       categoryId: "4",
       statistics: {
         viewCount: "2M",
